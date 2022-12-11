@@ -1,0 +1,62 @@
+#labels
+{
+    color:white;
+    font-size: 20px;    
+}
+
+body
+{
+ background-image: url("../Source/images.jpg");
+ background-size: cover;
+}
+#box
+{
+    border: 2px solid red;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+
+.button
+{
+    border: 2px solid grey;
+    border-radius: 25px;
+    width: 100px;
+}
+.submitbutton
+{
+    background-color: blue;
+    color: white;
+}
+.submitbutton
+{
+    background-color: green;
+    color: white;
+}
+.deletebutton
+{
+    background-color: black;
+    color: white;
+}
+
+.resetbutton
+{
+    background-color: red;
+    color: black;
+}
+
+.updatebutton
+{
+    background-color: blue;
+    color: white;
+}
+
+div.sticky
+{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-color: greenyellow;
+    border: 2px solid blue;
+}
